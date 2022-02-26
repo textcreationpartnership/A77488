@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true coppy of the complaint of Roderyck Mors, sometime a gray Fryer, unto the Parliament House of England, about an hundred yeares agoe, when the Bishop of Rome being banish'd out of the realme, the Bishops of England acted his part by power of the old Romish canon, newly translated into English law.</title>
+            <title>Complaynt of Roderyck Mors. Chapter 23.</title>
+            <author>Brinkelow, Henry, d. 1546.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77488</idno>
+            <idno type="STC">Wing B4696</idno>
+            <idno type="STC">Thomason 669.f.4[41]</idno>
+            <idno type="STC">ESTC R210695</idno>
+            <idno type="EEBO-CITATION">99869468</idno>
+            <idno type="PROQUEST">99869468</idno>
+            <idno type="VID">160663</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160663)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true coppy of the complaint of Roderyck Mors, sometime a gray Fryer, unto the Parliament House of England, about an hundred yeares agoe, when the Bishop of Rome being banish'd out of the realme, the Bishops of England acted his part by power of the old Romish canon, newly translated into English law.</title>
+                  <title>Complaynt of Roderyck Mors. Chapter 23.</title>
+                  <author>Brinkelow, Henry, d. 1546.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed in time and place of publique observation of the English prelats, so contrary handling the matter with the peace-seeking Protestant subjects of Scotland, and the blood-sucking Popish rebells of Ireland,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Roderyck Mors = Henry Brinkelow.</note>
+                  <note>Place of publication and publication date from Wing.</note>
+                  <note>A reprint of chapter 23 of: The complaynt of Roderyck Mors.</note>
+                  <note>Annotation on Thomason copy: "15: Jan: 1641".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:160663:1" rendition="simple:additions"/>
+            <head>The true Coppy of the Complaint of <hi>Roderyck Mors,</hi> Sometime a Gray Fryer, unto the Parliament Hsouſe of <hi>England,</hi> about an hundred yeares agoe, when the Biſhop of <hi>Rome</hi> being Baniſh'd out of the Realme, the Biſhops of ENGLAND acted his part by power of the old Romiſh Canon, newly Tranſlated into Engliſh Law.</head>
+            <p>Let the Reader take notice, that in that day when the Roman Wolf was Metamorphoſed into an Eng<g ref="char:EOLhyphen"/>liſh Fox, the Prelats that (in our firſt reforming Parliament of this latter age, cryed out fearefully, <hi>the deſtruction of the Church, and the ceaſing of the glory of the Kingdome,</hi> 1530) at leaſt for their livings ſake, joyn'd in law-making, and wrote, and ſwore ſolemnly againſt that Roman juriſdiction, 1534. Being yet bound by their own cords, and when they would have King and State beleeve that both Pope and Popery were baniſh'd, even in the ſame day, both by word and letter, at home and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>broad, took all occaſions to draw backe K. <hi>Henry</hi> the 8. his Highneſſe from Reformation: and on the other hand, procur'd Injunctions and Articles, 1540. with penalties attended, in which even dealing againſt Tranſubſtantion was to be conſidered as Treaſon: And themſelves ſate in Commiſſi<g ref="char:EOLhyphen"/>on, and were cheiefe proſecutors of ſuch as withſtood them. Their attempts againſt the Queen <hi>Ka<g ref="char:EOLhyphen"/>tharine Parrs</hi> own life, are they not on record. How ſaith our Church Hiſtory, came the Noble Cour<g ref="char:EOLhyphen"/>tier, and ſo lamented of the King Earle <hi>Cromwell</hi> to his untimely end? How were diverſe, Londoners and others; Miniſters and People, caſt into the burning flame, in the ſame, both place and time, that others periſhed for adhering to the Roman Biſhop? And ſince the laſt Baniſhing of the forraign<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> power, in the end of the Marian times, what publique perſecutions, Murthers, Priſon-murders, Gondemnation to death, Baniſhment, Torture, and Spoyle, by means of thoſe cruell Canons, and uſurped Offices, hath bin ſo ſore, and long endured, who ſeeth not, when the publique ſlate hath ſo diſcerned? In this day when the advancement hath bin ſo faire for a renewd Patriarchat, or Popedome within our ſelves, we may leſſe wonder the condition of the Land to be as it is, though the Prelats proteſt againſt <hi>Romes</hi> Supremacie. Cannot they be a blocke to the expedition for <hi>Ireland,</hi> and deſignes of the Major part in Parliament for Reformation, and our ſafety; and agree in vote with the Popiſh Lords, and boaſt how they could ſettle the preſent diſtraction in quietneſſe, troubling only ſome which they call Sectaries, and yet keep cloſe to the rule of Romiſh government, ſhared among themſelves, thus ſtill letting, and like to doe, till they be taken out of the way? For the further diſcovery of this order of Men, to every eye that is but halfe open, and regulated well by common ſenſe, the judgement of the godly learned on the contrary ſide, in the day of our begun eſcape from the Romiſh Wolfe, in this Propheticall admonitory Lamentation (being the Title and words of the 23. Chapter of his Book, Printed in Anno 1545.) is annexed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="religious_tract">
+                        <head>A Lamentation, for that the Body and Tayle of the Pope is not baniſhed, with his Name.</head>
+                        <p>OH mercifull Father of heaven, I can never lament enough to heare the Goſpell thus blaſphemed, to be named a thing cauſing Sedition; when it is the only cauſe of concord and peace in Conſcience unto the faith<g ref="char:EOLhyphen"/>full. Yet theſe Biſhops, Deanes and Canons of Colledges, with other the Popes ſhavelings, according to their old wont, ſhame not to blaſpheme this holy Word, by all the ſubtile meanes that can be deviſed. How buſie were they to ſtay the putting forth of the great Bible, and to have had the Bible of <hi>Thomas Mathew</hi> called in: but the Lord ſtrengthned the heart of the Prince to ſet it forth againſt their wills: yet how ſhamefully have they and their mem<g ref="char:EOLhyphen"/>bers, in many places of <hi>England</hi> driven men from reading the Bible? yea and <hi>Bonner</hi> Biſhop of <hi>London,</hi> ſhamed not in the yeare a thouſand five hundred and forty, to Priſon one <hi>Porter</hi> and other, for reading in the Bible, which if it be not Hereſie to GOD, then what is Hereſie? And if it be not treaſon to the King to deface his Injunctions then what is treaſon?</p>
+                        <p>And againe, if it be not theft to the Common-wealth, to ſteale from them their ſpirituall food, then what is robbery and theft? And even in the be<g ref="char:EOLhyphen"/>ginning of the laſt Parliament in the yeare a thouſand five hundred, and forty one; how did they blaſpheme, rage, and bely the Holy Ghoſt, ſaying, <hi>It is not rightly tranſlated,</hi> and that <hi>it is full of Hereſies,</hi> and that <hi>they would correct it, and ſet out one rightly.</hi> Sooner can they find faults than amend it. Who perceiveth not your wicked intentions, that in the meane time ye looke for the death of the King, whom GOD preſerve to his pleaſure.</p>
+                        <p>O ye blind Phyliſtians, the Scripture is full of ſentences, which teach men to know you, and to beware of you. I cannot blame you, though ye fight againſt GOD and his Word, to ſhut it up from his People. For why? Whoſoever readeth or heareth the Contents of that Booke, and beleeveth the Holy Ghoſt, ſhall plainly ſee, that ye be the very enemies of GOD, and ſo ſhall caſt you out of their Conſcience, where ye have long ſitten in the place of <hi>God;</hi> whereby alſo ye ſhould loſe your great riches and authority, which maketh you to roare like Lyons, and teare like Beares, and to bite like cruell Wolves and to ſting like Adders. No doubt one Biſhop one Deane, one Col<g ref="char:EOLhyphen"/>ledge, or Houſe of Canons, hath ever done more miſchiefe againſt <hi>Gods</hi> Word, and ſought more the hinderance of the ſame, than 10 houſes of Monks, Friers, Chanons or Nunnes ever did.</p>
+                        <p>The Kings grace began well to weed the Garden of <hi>England:</hi> but yet hath he left ſtanding (the more pitty) the moſt fouleſt and ſtinking weeds, which had moſt need to be firſt plucked up by the roots, that is to ſay, the pricking Thiſtles, and ſtinking Nettles, which ſtill ſtanding, what helpeth the depoſing of the petty members of the Pope, and to leave his whole body behind, which be the pompous Biſhops, Canons of Colledges, Deanes, and ſuch other? Sure<g ref="char:EOLhyphen"/>ly it helpeth aſ much as to ſay, I will goe kill all the Foxes in S. <hi>Iohans</hi> Wood, becauſe I would have no more Foxes bred in all <hi>England.</hi> We ſay we have caſt the Pope out of <hi>England:</hi> how ſo, I aske you, ſeeing he came never in <hi>England,</hi> how can he be caſt out therfore? Some will ſay yes his tributes and other pol<g ref="char:EOLhyphen"/>lages be taken from him. Well thanks be to <hi>God,</hi> we be ſomwhat eaſed of our temporall and bodily burthen. But there be greater things in this matter, than that, which well pondered, we may ſay, and lye not, that the Pope remaineth wholly ſtill in <hi>England,</hi> ſave only that his Name is baniſhed. For why? his body (which be the Biſhops and other ſhavelings) doth not only remaine, but alſo his tayle, which be his filthy traditions, wicked Laws and beggerly Cere<g ref="char:EOLhyphen"/>monies (as S. <hi>Paul</hi> called them) yea and the whole body of his peſtiferous Ca<g ref="char:EOLhyphen"/>non Law, according to the which judgement is given through the Realme, and men condemned after the preſcript of it; ſo that we be ſtill in <hi>Egypt,</hi> and remaine in captivity, moſt grievouſly laden by obſerving and walking in his moſt filthy droſſe aforeſaid, which is a miſty and endleſſe maze. And ſo long as ye walke in thoſe wicked Lawes of Antichriſt the Pope, and maintaine his Knights the Biſhops, in ſuch inordinate Riches, and unlawfull Authority; ſo long ſay I, ye ſhall never baniſh that monſtrous Beaſt the Pope, out of <hi>England.</hi> Yes, and it ſhalbe a meane in proceſſe of time to bring us into a temporall bondage alſo againe, and to have him reigne as he hath done like a <hi>God.</hi> And that know our forked Cappes right well, which thing maketh them ſo boldly and ſhameleſly to fight of their Gods quarrell, againſt <hi>Chriſt</hi> and his Word. The Biſhops of <hi>England</hi> never tooke ſo great paines to defend the Pope and his Kingdome, as they have done ſince the Kings grace took rightfully from him his accuſtomed pollages, which uſurpedly he had out of this Realme. To prove this to be true, what blood have they ſhed? ſince that time, of the beloved ſervants of the everlaſting <hi>God,</hi> for preaching, teaching, writing, and walking in the truth; as <hi>Teukisbery, Bainam, Frith, Bilney, Barnis, Garet, Ierom,</hi> with divers other in <hi>Kent, Salisbury,</hi> and diverſe other places. And <hi>William Tindall</hi> the Apoſtle of <hi>England</hi> (although he were burnt in <hi>Brabant</hi>) yet he felt the Bi<g ref="char:EOLhyphen"/>ſhops bleſſing of <hi>England,</hi> which procured him that death, which he looked for at their hands. Nevertheleſſe, I doubt not, but that all theſe be of the number of them, that S. <hi>Iohn</hi> ſpeaketh of in the Apocalyps, which lye under the Altar, till the number of their Brethren be fullfilled, which ſhall be ſlaine for the Goſpells ſake. I rehearſe not their names for any praiſe to be given to them: but that the Congregation of <hi>Chriſt</hi> may laud and praiſe the everliving <hi>God,</hi> for giving them grace to ſtand ſo faithfull in the <hi>Lord</hi> to the end, leaving us the victory, which is part of your ſpirituall comfort. For <hi>God</hi> promiſeth the Prea<g ref="char:EOLhyphen"/>chers and Miniſters of his Word, no other reward in this life. And thorow the preaching of theſe poore wretches (but outcaſtles in the ſight of the world) he hath wrought this, that whereas the King was before but a ſhadow, or at the moſt but halfe a King, now he doth wholly reigne thorow theie preaching, writing and ſuffering.</p>
+                        <p>But now to the tyranny of the Biſhops, once againe, which beſides the mur<g ref="char:EOLhyphen"/>thering of theſe Saints, how have they bewitched the Parliament-houſe, in making ſuch viperous Acts, as the Beaſt of <hi>Rome</hi> never made himſelfe? for the Pope never made the Marriage of Prieſts to death, and ſuch other.</p>
+                        <p>Thus by your ſubtilties and moſt crafty wiles, ye make the People to ab<g ref="char:EOLhyphen"/>horre the name of the Pope of <hi>Rome,</hi> for a face, and compell them to walke in all his wicked Laws. And the Word of <hi>God</hi> which we ſay we have received, is not, nor cannot be ſuffered to be preached and taught purely and ſincerely, without mixing it with your invented traditions and ſervice. For whoſoever doth (ſtanding faithfully to it) he ſhall die for it. Thus you may ſee, that the things which we ſay that we have caſt off, we receive, cheriſh, maintaine, and walke therein: and againe, that thing which we ſay we have received by the craft and tyranny of the Biſhops, is abhorred, deſpiſed taken for Sedition called new Learning; and men be driven from it for feare of loſſe of goods of puniſh<g ref="char:EOLhyphen"/>ment of body, and danger of death, ſo weake and frayle is our fleſh.</p>
+                        <p>What a lamentable thing is this, that men ſhould be driven from the Goſ<g ref="char:EOLhyphen"/>pell of <hi>Chriſt,</hi> the glad tidings that bringeth peace in Conſcience to the faithfull, that is forgiveneſſe of ſinnes in <hi>Chriſts</hi> blood. By theſe fruits all men may know, that they be more naturall to their wicked Father the Pope, than any Child can be to his naturall Father: and that ſhall the Realm feel at the change of a Prince, or at ſuch times as they look for, unleſſe <hi>God</hi> of his very mercy break the wicked councels of them. What is the cauſe, that the Biſhops be ſo diligent to ſit ſo often upon the ſix wicked Articles, but only that they be eſta<g ref="char:EOLhyphen"/>bliſhing of the Popes authority, be thou ſure? Now therfore, that ſame <hi>God</hi> which gave grace to <hi>Achab</hi> to hearken unto the voyce of <hi>Elyab,</hi> the 3. of the <hi>Kings</hi> the 18. to the confounding of the falſe Prophets give our noble King that ſame grace, if it be his Godly will and pleaſure, to hearken to the godly learned, to confound and deſtroy all the falſe Prophets in <hi>England,</hi> and then I am ſure there ſhall not be remaining one pompous Biſhop in the Realme.</p>
+                        <p>Wherfore to open the concluſion of this little Lamentation, if ye will baniſh for ever the Antichriſt, the Pope, out of this Realme, ye muſt fell downe to the ground thoſe rotten poſts the Biſhops, which be clouds without moiſture, and utterly aboliſh all and every his ungodly Laws, decrees, Traditions and Cere<g ref="char:EOLhyphen"/>monies, without Sgnifications, for they wait but for a time to robbe ſome Noble man of his wit, as they would haye done with the Marqueſſe of <hi>Exetor.</hi> This is as ſure, as <hi>Wincheſter</hi> received a Letter from the Pope, at his being at <hi>Regenſpurg.</hi> Well, theſe filthy dregges once expelled, then make no Laws but ſuch as ſhalbe agreeable to <hi>Gods</hi> Word; and ſo ſhall ye drive out Antichriſt and his members, or elſe never: and thus we ſhall not only avoide our tempo<g ref="char:EOLhyphen"/>rall bondage, but alſo our ſpirituall captivity, which thing is moſt to be deſired. And ſurely, ſeeing there is no power upon earth above the Temporall, to re<g ref="char:EOLhyphen"/>dreſſe civill matters, Common-wealths, and to change wicked Laws, and evill cuſtomes; and inaſmuch as the higher powers be fully certified by the Scripture, that as the Pope is enemy to the Goſpell, ſo be his Children the Bi<g ref="char:EOLhyphen"/>ſhops (which thing is open and manifeſt to as many as will not wilfully be blind) therfore, I ſay, I cannot ſee, how they can ſuffer them thus to reigne, perſecuting the ſetters forth of the Goſpell, but that they be partakers of their iniquity, and ſprinkled with them in the bloud of the righteous.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in time and place of publique obſervation of the Engliſh Prelats, ſo contrary handling the matter with the peace-ſeeking Proteſtant Subjects of SCOTLAND, and the blood-ſucking Popiſh Rebells of IRELAND. <add>15. Jan: 1641</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
